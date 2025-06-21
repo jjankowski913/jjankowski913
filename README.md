@@ -3,14 +3,28 @@
 <!--
 **jjankowski913/jjankowski913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Cześć! 👋 Nazywam się Jakub Jankowski (Frejs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 **Student Informatyki i Ekonometrii**  
+🏫 Uniwersytet Gdański, Wydział Zarządzania
+
+---
+
+## 🖥️ Aktualnie uczę się:
+- Programowania w **C#**
+- Tworzenia aplikacji desktopowych z użyciem **Windows Forms**
+
+---
+
+## 🎮 Poza kodowaniem:
+- Lubię grać w **League of Legends** 🎮
+
+---
+
+## 📫 Kontakt:
+- E-mail: [jjankowski913@gmail.com](mailto:jjankowski913@gmail.com)
+
+---
+
+
 -->
