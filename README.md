@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**jjankowski913/jjankowski913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Cześć! 👋 Nazywam się Jakub Jankowski (Frejs)
 
 🎓 **Student Informatyki i Ekonometrii**  
@@ -23,8 +18,3 @@
 
 ## 📫 Kontakt:
 - E-mail: [jjankowski913@gmail.com](mailto:jjankowski913@gmail.com)
-
----
-
-
--->
